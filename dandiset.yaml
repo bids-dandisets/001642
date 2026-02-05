@@ -3,6 +3,7 @@
 # and obtained from the dandiarchive.
 '@context': 
   https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.10/context.json
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
@@ -33,10 +34,40 @@ assetsSummary:
   - ElectrodeGroup
   - Units
   - ProcessingModule
-citation: Taniguchi, Masachika (2025) Neural activity in dorsolateral, dorsomedial,
-  and ventral striatum during fixed- and free-choice decision-making in rats (Ito
-  & Doya 2015) (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001642/draft
+citation: Doya, Kenji; Ito, Makoto; Taniguchi, Masachika (2026) Neural activities
+  in dorsolateral, dorsomedial, and ventral striatum during fixed- and free-choice
+  tasks in rats (Ito & Doya 2015) (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001642/draft
 contributor:
+- email: doya@oist.jp
+  identifier: 0000-0002-2446-6820
+  includeInCitation: true
+  name: Doya, Kenji
+  roleName:
+  - dcite:Author
+  - dcite:Conceptualization
+  - dcite:ContactPerson
+  - dcite:DataManager
+  - dcite:FormalAnalysis
+  - dcite:FundingAcquisition
+  - dcite:Investigation
+  - dcite:ProjectLeader
+  - dcite:Researcher
+  schemaKey: Person
+  url: https://www.oist.jp/ncu
+- affiliation:
+  - name: Okinawa Institute of Science and Technology
+    schemaKey: Affiliation
+  includeInCitation: true
+  name: Ito, Makoto
+  roleName:
+  - dcite:Author
+  - dcite:Conceptualization
+  - dcite:DataCollector
+  - dcite:FormalAnalysis
+  - dcite:Investigation
+  - dcite:ProjectMember
+  - dcite:Researcher
+  schemaKey: Person
 - affiliation: []
   email: mtanigu-vendor@oist.jp
   includeInCitation: true
@@ -70,16 +101,26 @@ description: "This Dandiset contains Neurodata Without Borders (NWB) files with 
   are differentially represented across striatal subregions. This dataset enables
   re-analysis of decision-making strategies, model-based and model-free value coding,
   and hierarchical reinforcement-learning hypotheses in cortico-basal ganglia circuits."
+ethicsApproval: []
 id: DANDI:001642/draft
 identifier: DANDI:001642
+keywords:
+- 'striatum '
+- basal ganglia
+- reinforcement learning
+- value function
+- Bayesian inference
+- particle filter
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001642/versions/draft/assets/
-name: Neural activity in dorsolateral, dorsomedial, and ventral striatum during fixed-
-  and free-choice decision-making in rats (Ito & Doya 2015)
+name: Neural activities in dorsolateral, dorsomedial, and ventral striatum during
+  fixed- and free-choice tasks in rats (Ito & Doya 2015)
+relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.10
 url: https://dandiarchive.org/dandiset/001642/draft
 version: draft
+wasGeneratedBy: []
