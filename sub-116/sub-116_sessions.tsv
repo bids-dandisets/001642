@@ -1,14 +1,14 @@
-session_id
-ses-LE116+01
-ses-LE116+02
-ses-LE116+03
-ses-LE116+04
-ses-LE116+05
-ses-LE116+06
-ses-LE116+07
-ses-LE116+08
-ses-LE116+09
-ses-LE116+10
-ses-LE116+11
-ses-LE116+12
-ses-LE116+13
+session_id	original_session_id
+ses-LE116+01	ses-LE116_01
+ses-LE116+02	ses-LE116_02
+ses-LE116+03	ses-LE116_03
+ses-LE116+04	ses-LE116_04
+ses-LE116+05	ses-LE116_05
+ses-LE116+06	ses-LE116_06
+ses-LE116+07	ses-LE116_07
+ses-LE116+08	ses-LE116_08
+ses-LE116+09	ses-LE116_09
+ses-LE116+10	ses-LE116_10
+ses-LE116+11	ses-LE116_11
+ses-LE116+12	ses-LE116_12
+ses-LE116+13	ses-LE116_13

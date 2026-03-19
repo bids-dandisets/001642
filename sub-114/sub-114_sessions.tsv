@@ -1,14 +1,14 @@
-session_id
-ses-LE114+01
-ses-LE114+02
-ses-LE114+03
-ses-LE114+04
-ses-LE114+05
-ses-LE114+06
-ses-LE114+07
-ses-LE114+08
-ses-LE114+09
-ses-LE114+10
-ses-LE114+11
-ses-LE114+12
-ses-LE114+13
+session_id	original_session_id
+ses-LE114+01	ses-LE114_01
+ses-LE114+02	ses-LE114_02
+ses-LE114+03	ses-LE114_03
+ses-LE114+04	ses-LE114_04
+ses-LE114+05	ses-LE114_05
+ses-LE114+06	ses-LE114_06
+ses-LE114+07	ses-LE114_07
+ses-LE114+08	ses-LE114_08
+ses-LE114+09	ses-LE114_09
+ses-LE114+10	ses-LE114_10
+ses-LE114+11	ses-LE114_11
+ses-LE114+12	ses-LE114_12
+ses-LE114+13	ses-LE114_13

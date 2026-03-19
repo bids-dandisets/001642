@@ -1,12 +1,12 @@
-session_id
-ses-LE101+01
-ses-LE101+02
-ses-LE101+03
-ses-LE101+04
-ses-LE101+05
-ses-LE101+06
-ses-LE101+07
-ses-LE101+08
-ses-LE101+09
-ses-LE101+10
-ses-LE101+11
+session_id	original_session_id
+ses-LE101+01	ses-LE101_01
+ses-LE101+02	ses-LE101_02
+ses-LE101+03	ses-LE101_03
+ses-LE101+04	ses-LE101_04
+ses-LE101+05	ses-LE101_05
+ses-LE101+06	ses-LE101_06
+ses-LE101+07	ses-LE101_07
+ses-LE101+08	ses-LE101_08
+ses-LE101+09	ses-LE101_09
+ses-LE101+10	ses-LE101_10
+ses-LE101+11	ses-LE101_11

@@ -1,8 +1,8 @@
-participant_id	species	sex	strain
-sub-091	Rattus norvegicus	M	Long-Evans
-sub-092	Rattus norvegicus	M	Long-Evans
-sub-101	Rattus norvegicus	M	Long-Evans
-sub-108	Rattus norvegicus	M	Long-Evans
-sub-114	Rattus norvegicus	M	Long-Evans
-sub-115	Rattus norvegicus	M	Long-Evans
-sub-116	Rattus norvegicus	M	Long-Evans
+participant_id	original_participant_id	species	sex	strain
+sub-091	sub-091	Rattus norvegicus	M	Long-Evans
+sub-092	sub-092	Rattus norvegicus	M	Long-Evans
+sub-101	sub-101	Rattus norvegicus	M	Long-Evans
+sub-108	sub-108	Rattus norvegicus	M	Long-Evans
+sub-114	sub-114	Rattus norvegicus	M	Long-Evans
+sub-115	sub-115	Rattus norvegicus	M	Long-Evans
+sub-116	sub-116	Rattus norvegicus	M	Long-Evans
