@@ -2,7 +2,7 @@
 		SourceDatasets
 		/dataset_description.json - Field description: Used to specify the locations and relevant attributes of all source datasets (BIDS or not).
 Valid keys in each object include `"URL"`, `"DOI"` (see
-[URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)), and
+[URI](https://bids-specification.readthedocs.io/en/stable/common-principles.md#uniform-resource-indicator)), and
 `"Version"` with
 [string](https://www.w3schools.com/js/js_json_datatypes.asp)
 values.
@@ -106,4 +106,3 @@ interest (for example, stimulus presentations or subject responses).
           887 Files, 13.4 MB                                        microephys           
           7 - Subjects 87 - Sessions                                                     
 
-	If you have any questions, please post on https://neurostars.org/tags/bids.
